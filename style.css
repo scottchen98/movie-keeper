@@ -1,0 +1,22 @@
+.flex {
+  display: block;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.container {
+  height: 90vh;
+}
+
+li:hover {
+  cursor: pointer;
+}
+
+table {
+  width: 100%;
+}
+
+tr {
+  display: flex;
+  justify-content: space-between;
+}
